@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Регистрация</title>
+    <link rel="stylesheet" href="123.css">
+
+</head>
+<body>
+<div class="register1">
+<div class="conteiner">
+    <p class="voi">Регистрация</p>
+</div>
+<div class="conteiner1">
+    <form class="qw">
+        <input type="text" name="text" placeholder="Название крайнего срока">
+        <input type="text" name="text" placeholder="Фамилия">
+    </form>
+    <form class="as">
+        <input type="text" name="text" placeholder="Номер документа">
+        <input type="text" name="text" placeholder="Телефон">
+    </form>
+    <form class="zx">
+        <input type="text" name="text" placeholder="Пароль">
+        <input type="text" name="text" placeholder="Подтверждение пароля">
+    </form>
+</div>
+    <div class="rt">
+    <button type="submit">Зарегистрируйтесь</button>
+    </div>
+<div class="ss">
+    <p>У вас уже есть аккаунт? <a href="http://localhost:63342/LemonDemon209/maket1/login/er.html?_ijt=m3mvavpd6iduqr63vto5up4u8n&_ij_reload=RELOAD_ON_SAVE">Войдите в сиситему</a> или <a href="http://localhost:63342/LemonDemon209/maket1/45.html?_ijt=hg6maio678fla12v90cubokmvv&_ij_reload=RELOAD_ON_SAVE">вернитесь домой</a></p>
+</div>
+</div>
+</body>
+</html>
